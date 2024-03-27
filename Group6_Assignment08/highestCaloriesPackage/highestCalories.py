@@ -6,7 +6,7 @@
 # Semester/Year: Spring 2024
 # Brief Description of the assignment: This assignment uses a connection to SSMS to create a query and manipulate the pulled data in different ways.
 
-# Brief Description of what this module does. Do not copy/paste from a previous assignment. Put some thought into this. This method takes all of the "rows"
+# Brief Description of what this module does. Do not copy/paste from a previous assignment. Put some thought into this. This method takes all  the "rows"
 # as a parameter, then pulls only the last two columns of the newly sorted top_5_calories list
 # Citations: N/A
 # Anything else that's relevant: N/A
