@@ -5,7 +5,7 @@
 # Due Date: 03/28/2024
 # Course/Section: IS4010-001
 # Semester/Year: Spring 2024
-# Brief Description of the assignment: This assignment uses a connection to SSMS to create a query and manipulate the pulled data in different ways
+# Brief Description of the assignment: This assignment uses a connection string to SSMS to create a query and manipulate the pulled data in different ways
 
 # Brief Description of what this module does. Do not copy/paste from a previous assignment. Put some thought into this. This is the main where we execute the query from, 
 # and manipulate the resultant data set
