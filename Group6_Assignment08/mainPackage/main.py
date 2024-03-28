@@ -12,7 +12,7 @@
 # Citations: https://stackoverflow.com/questions/13207697/how-to-remove-square-brackets-from-list-in-python
 # Anything else that's relevant: We each contributed to the modules that our respective documentation is in, but collaborated on the main here
 import pyodbc
-from connectPackage.connect import getTop5
+from highestCaloriesPackage.highestCalories import getTop5
 from lowestCaloriesPackage.lowestCalories import getBottom5
 
 #this is the connection string
