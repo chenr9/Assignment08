@@ -1,12 +1,28 @@
-#lowestCalories.py
-#Name:Ruolin Chen
-#email:chenr9@mail.uc.edu
-#Assignment Title: Assignment 08
-#Course: IS4010-001
-#Semester/Year: Spring 2024
-#Brief Description: This module pulls lowest 5 rows from # "rows", sorted by the 5th element(calories), then pulls last two columns of bottom_5_calories
-#Citations: https://stackoverflow.com/questions/39511011/lambda-python-function-in-reversing-list
-#Anything else that's relevant: 
+# lowestCalories.py
+
+# Name:Ruolin Chen    
+
+# email: Chenr9@mail.uc.edu
+
+# Assignment Number: Assignment 08
+
+# Due Date: 03/28/2024
+
+# Course/Section: IS4010-001
+
+# Semester/Year: Spring 2024
+
+# Brief Description of the assignment: This assignment uses a connection string to SSMS to create a query and manipulate the pulled data in different ways
+
+ 
+
+# Brief Description of what this module does. Do not copy/paste from a previous assignment. Put some thought into this. This module pulls lowest 5 rows from
+
+# "rows", sorted by the 5th element(calories), then pulls last two columns of bottom_5_calories
+
+# Citations: https://stackoverflow.com/questions/39511011/lambda-python-function-in-reversing-list
+
+# Anything else that's relevant:
 
 def getBottom5(rows):
 
